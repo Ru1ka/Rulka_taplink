@@ -93,8 +93,6 @@ body {
   top: -1000px;
 }
 
-
-/* Figures */
 .ellipse {
   position: absolute;
   top: 1vw;
@@ -195,6 +193,7 @@ body {
   margin-right: 10px;
   top: 2px;
 }
+
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 100px;
